@@ -1,0 +1,9 @@
+__pycashe__/
+__pycashe__
+venv
+end
+venv/
+env/
+*.mp4
+.idea
+.idea/
